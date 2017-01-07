@@ -1,0 +1,60 @@
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\Tech_Mover.csprojResolveAssemblyReference.cache
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\TechM.Form1.resources
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\TeachMover_SimpleApp.Properties.Resources.resources
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\Tech_Mover.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\asasdd\obj\Debug\TechM.Form1.resources
+C:\Users\Student\Desktop\asasdd\obj\Debug\TeachMover_SimpleApp.Properties.Resources.resources
+C:\Users\Student\Desktop\asasdd\obj\Debug\Tech_Mover.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\asasdd\bin\Debug\TeachMover Sample App.exe
+C:\Users\Student\Desktop\asasdd\bin\Debug\TeachMover Sample App.pdb
+C:\Users\Student\Desktop\asasdd\obj\Debug\TeachMover Sample App.exe
+C:\Users\Student\Desktop\asasdd\obj\Debug\TeachMover Sample App.pdb
+C:\Users\Student\Desktop\asasdd\obj\Debug\Tech_Mover.csprojResolveAssemblyReference.cache
+F:\asasdd\obj\Debug\TeachMover Sample App.exe
+F:\asasdd\obj\Debug\TeachMover Sample App.pdb
+F:\asasdd\bin\Debug\TeachMover Sample App.exe
+F:\asasdd\bin\Debug\TeachMover Sample App.pdb
+F:\asasdd\obj\Debug\Tech_Mover.csprojResolveAssemblyReference.cache
+F:\asasdd\obj\Debug\TechM.Form1.resources
+F:\asasdd\obj\Debug\TeachMover_SimpleApp.Properties.Resources.resources
+F:\asasdd\obj\Debug\Tech_Mover.csproj.GenerateResource.Cache
+E:\ \asasdd\obj\Debug\TeachMover Sample App.exe
+E:\ \asasdd\obj\Debug\TeachMover Sample App.pdb
+E:\ \asasdd\bin\Debug\TeachMover Sample App.exe
+E:\ \asasdd\bin\Debug\TeachMover Sample App.pdb
+E:\ \asasdd\obj\Debug\Tech_Mover.csprojResolveAssemblyReference.cache
+E:\ \asasdd\obj\Debug\TechM.Form1.resources
+E:\ \asasdd\obj\Debug\TeachMover_SimpleApp.Properties.Resources.resources
+E:\ \asasdd\obj\Debug\Tech_Mover.csproj.GenerateResource.Cache
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\TeachMover Sample App.exe
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\TeachMover Sample App.pdb
+C:\Users\TeezyT\Desktop\asasdd\bin\Debug\TeachMover Sample App.exe
+C:\Users\TeezyT\Desktop\asasdd\bin\Debug\TeachMover Sample App.pdb
+H:\asasdd\obj\Debug\TeachMover Sample App.exe
+H:\asasdd\obj\Debug\TeachMover Sample App.pdb
+H:\asasdd\obj\Debug\Tech_Mover.csprojResolveAssemblyReference.cache
+H:\asasdd\obj\Debug\TechM.Form1.resources
+H:\asasdd\obj\Debug\TeachMover_SimpleApp.Properties.Resources.resources
+H:\asasdd\obj\Debug\Tech_Mover.csproj.GenerateResource.Cache
+H:\asasdd\bin\Debug\TeachMover Sample App.exe
+H:\asasdd\bin\Debug\TeachMover Sample App.pdb
+H:\asasdd\bin\Debug\metroframework.dll
+C:\Users\Student\Desktop\asasdd\bin\Debug\metroframework.dll
+C:\Users\TeezyT\Desktop\Updated\asasdd\obj\Debug\TeachMover Sample App.exe
+C:\Users\TeezyT\Desktop\Updated\asasdd\bin\Debug\TeachMover Sample App.exe
+C:\Users\TeezyT\Desktop\Updated\asasdd\bin\Debug\TeachMover Sample App.pdb
+C:\Users\TeezyT\Desktop\Updated\asasdd\bin\Debug\metroframework.dll
+C:\Users\TeezyT\Desktop\Updated\asasdd\obj\Debug\Tech_Mover.csprojResolveAssemblyReference.cache
+C:\Users\TeezyT\Desktop\Updated\asasdd\obj\Debug\TechM.Form1.resources
+C:\Users\TeezyT\Desktop\Updated\asasdd\obj\Debug\TeachMover_SimpleApp.Properties.Resources.resources
+C:\Users\TeezyT\Desktop\Updated\asasdd\obj\Debug\Tech_Mover.csproj.GenerateResource.Cache
+C:\Users\TeezyT\Desktop\Updated\asasdd\obj\Debug\TeachMover Sample App.pdb
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\bin\Debug\TechM.exe
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\bin\Debug\TechM.pdb
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\bin\Debug\metroframework.dll
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\Tech_Mover.csprojResolveAssemblyReference.cache
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\TechM.Form1.resources
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\Harware_TechM.Properties.Resources.resources
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\Tech_Mover.csproj.GenerateResource.Cache
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\TechM.exe
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\TechM.pdb

@@ -1,0 +1,9 @@
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\bin\Debug\TechM.exe
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\bin\Debug\TechM.pdb
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\bin\Debug\metroframework.dll
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\Hardware_TechMover.csprojResolveAssemblyReference.cache
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\Harware_TechM.Switchboard.resources
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\Harware_TechM.Properties.Resources.resources
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\Hardware_TechMover.csproj.GenerateResource.Cache
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\TechM.exe
+C:\Users\TeezyT\Desktop\Updated\TechMoverArm\obj\Debug\TechM.pdb

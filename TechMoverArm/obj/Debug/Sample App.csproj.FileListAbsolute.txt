@@ -1,0 +1,8 @@
+C:\Users\TeezyT\Desktop\asasdd\bin\Debug\TeachMover Sample App.exe
+C:\Users\TeezyT\Desktop\asasdd\bin\Debug\TeachMover Sample App.pdb
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\Sample App.csprojResolveAssemblyReference.cache
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\TeachMover_Sample_App.Form1.resources
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\TeachMover_SimpleApp.Properties.Resources.resources
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\Sample App.csproj.GenerateResource.Cache
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\TeachMover Sample App.exe
+C:\Users\TeezyT\Desktop\asasdd\obj\Debug\TeachMover Sample App.pdb
